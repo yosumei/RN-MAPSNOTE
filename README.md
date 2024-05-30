@@ -1,3 +1,7 @@
+
+![ScreenRecording2024-05-30at17 22 56-ezgif com-video-to-gif-converter](https://github.com/yosumei/RN-MAPSNOTE/assets/147663700/7be133bd-407a-4ae5-8f0b-34f5e2d3cb37)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
